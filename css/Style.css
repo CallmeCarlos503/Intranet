@@ -1,0 +1,9 @@
+.menu{
+    color: white;
+}
+.menu:hover{
+    color: black;
+}
+.inicio{
+    background-image: url("https://i0.wp.com/365tips.be/wp-content/uploads/2021/10/Captured-Motion-1-scaled.jpg");
+}
